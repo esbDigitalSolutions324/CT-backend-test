@@ -15,10 +15,10 @@ Accept: */*
             "date": "2022-12-26"
         }
         ],
-        "passenger": {
+    "passenger": {
             "adults": 2,
             "children": 1,
             "total": 3
         },
-        "bonus": []
+    "bonus": []
 }
