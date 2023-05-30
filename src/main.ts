@@ -6,6 +6,8 @@ const app = express();
 //const initDB = require('./config/config');
 const port = 3000;
 
+
+
 app.use(express.json());
 
 // Middleware para analizar el cuerpo de las solicitudes POST en formato x-www-form-urlencoded
